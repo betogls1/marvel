@@ -31,8 +31,3 @@ class Marvel
     end
   end
 end
-
-#character = Marvel.find("Hulk")
-#puts character.id
-#puts character.name
-#puts character.description
